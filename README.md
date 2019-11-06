@@ -9,8 +9,8 @@ These instructions will help you get started with using the word embeddings in y
 Install PyTorch and Numpy
 
 # Details
-10k_word_embeddings.tar - Tar file containing word embeddings. Each embedding is of 300 dimension.  
-vocab_to_int.tar- Tar file containing vocab to integer mapping. Vocab size is 159647 words.
+**10k_word_embeddings.tar** - Tar file containing word embeddings. Each embedding is of 300 dimension.  
+**vocab_to_int.tar** - Tar file containing vocab to integer mapping. Vocab size is 159647 words.
 
 # Usage
 
